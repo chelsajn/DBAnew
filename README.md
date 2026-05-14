@@ -5,13 +5,13 @@ and Logistics case study.
 
 ## Repository Structure
 
-**Colab_Notebooks/**
+**Colab_Notebooks**
 - SQL_inR.ipynb — SQL queries executed within R using sqldf
 - R_Analytics.ipynb — Statistical analysis and visualisation using ggplot2
 - Python.ipynb — Data processing and analysis using Pandas and NumPy
 - MongoDB.ipynb — NoSQL database design and implementation using PyMongo
 
-**Dataset/**
+**Dataset**
 - Nine CSV files provided for analysis
 - data_dictionary.csv — field descriptions and data types
 
